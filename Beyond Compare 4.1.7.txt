@@ -1,0 +1,44 @@
+Beyond Compare Pro 4.1.7 Build 21529 Portable Registered (Multi)
+
+About this release
+
+Release date: 19/08/2016
+Languages: English, French, German, Japanese
+OS: Windows all (x86-x64)
+Tweaks: all versions are registered, automatic updates are disabled, just unpack and run the main executable.
+
+About Beyond Compare Pro
+
+Beyond Compare allows you to quickly and easily compare your files and folders. 
+By using simple, powerful commands you can focus on the differences you're interested in and ignore those you're not. 
+You can then merge the changes, synchronize your files, and generate reports for your records.
+
+Compare Files, Folders
+
+You can compare entire drives and folders at high speed, checking just sizes and modified times. Or, thoroughly verify every file with byte-by-byte comparisons. FTP sites, cloud storage, and zip files are integrated seamlessly, and powerful filters allow you to limit what you see to only what you're interested in.
+
+Once you've found specific files you're interested in, Beyond Compare can intelligently pick the best way to compare and display them. 
+Text files can be viewed and edited with syntax highlighting and comparison rules tweaked specifically for documents, source code, and HTML. 
+The text contents of Microsoft Word .doc and Adobe .pdf files can also be compared but not edited. 
+Data files, executables, binary data, and images all have dedicated viewers as well, so you always have a clear view of the changes.
+
+3-way Merge (Pro edition only)
+
+Beyond Compare's merge view allows you to combine changes from two versions of a file or folder into a single output. 
+Its intelligent approach allows you to quickly accept most changes while carefully examining conflicts. 
+Color coding and section highlighting allow you to accept, reject, or combine changes, simply and easily.
+When merging files you can change any line in the output with the built-in syntax-highlighting editor.
+By using Beyond Compare's powerful file type support and ability to favor changes from one file, you can trivially accept many changes without even seeing them.
+
+You can use Beyond Compare directly from most version control systems, giving you all of the powerful comparing and merging support you need when you need it most. Integrated source control commands are also available, allowing you to check in and check out files without interrupting your work.
+
+Synchronize Folders
+
+Beyond Compare's intuitive Folder Sync interface lets you reconcile differences in your data automatically.
+You can efficiently update your laptop, backup your computer, or manage your website, and Beyond Compare will handle all the details.
+You can copy to and from disks, FTP servers, and zip files, all using the same interface.
+Anything you don't want affected can be easily filtered out, and all of the powerful comparison techniques are available, making the backup as fast or robust as you need.
+
+You can automate repetitive tasks using a flexible scripting language, and any script can be called from the command line, allowing you to schedule your syncs for when it's most convenient.
+
+Homepage http://www.scootersoftware.com/index.php
